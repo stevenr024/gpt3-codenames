@@ -1,7 +1,7 @@
 import os
 import sys
 
-from api import GPT, Exampl, UIConfig
+from api import GPT, Example, UIConfig
 from api import demo_web_app
 
 question_prefix = 'answers: '
